@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+symptom.tab.c
+symptom.tab.h
+lex.yy.c
+symptom_parser.exe
+models/*
+!models/README.md
+dataset/*
+!dataset/README.md

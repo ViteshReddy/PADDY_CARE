@@ -1,0 +1,57 @@
+
+{
+  "bacterial_leaf_blight": {
+    "display_name": "Bacterial Leaf Blight",
+    "symptoms": [
+      "yellowing along leaf edges",
+      "wavy lesions",
+      "leaves drying from the tip"
+    ],
+    "cause": "Bacterial infection associated with Xanthomonas oryzae pv. oryzae.",
+    "management": [
+      "Use resistant rice varieties where available.",
+      "Maintain field drainage and avoid excessive nitrogen fertilizer.",
+      "Consult local agricultural experts for region-appropriate control measures."
+    ]
+  },
+  "brown_spot": {
+    "display_name": "Brown Spot",
+    "symptoms": [
+      "brown oval spots",
+      "dark-edged lesions",
+      "yellowing around spots"
+    ],
+    "cause": "Fungal disease caused by Bipolaris oryzae.",
+    "management": [
+      "Use healthy seeds and suitable resistant varieties.",
+      "Maintain balanced crop nutrition.",
+      "Seek local agricultural advice if the disease is spreading."
+    ]
+  },
+  "blast": {
+    "display_name": "Rice Blast",
+    "symptoms": [
+      "diamond-shaped lesions",
+      "gray or whitish lesion centers",
+      "dark brown lesion margins"
+    ],
+    "cause": "Fungal disease caused by Magnaporthe oryzae.",
+    "management": [
+      "Use resistant varieties suitable for the region.",
+      "Avoid excessive nitrogen fertilizer.",
+      "Consult local agricultural experts about appropriate disease management."
+    ]
+  },
+  "normal": {
+    "display_name": "Healthy Leaf",
+    "symptoms": [
+      "no obvious disease lesions",
+      "generally uniform leaf color"
+    ],
+    "cause": "No obvious disease symptoms detected visually.",
+    "management": [
+      "Continue routine crop monitoring.",
+      "Maintain balanced irrigation and crop nutrition."
+    ]
+  }
+}
